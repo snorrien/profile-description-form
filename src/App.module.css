@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  height: calc(100vh - 1.5rem);
+  padding-top: 1.5rem;
+  color: rgb(0, 0, 0);
+  background-color: #F4F4F5;
+}
+
+.wrapper{
+  padding: 1.5rem;
+}
